@@ -1,4 +1,26 @@
 .jumbotron {
-    background-color: rgb(125, 123, 204);
+    background: url("/assets/images/galaxy.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.punchline {
+    color:rgb(221, 221, 221);
+    text-shadow: 2px 2px 5px whitesmoke;
+    text-align: right;
+}
+.grid-container {
+    grid-gap: 0px;
+}
+.about {
+    background-color: lightskyblue;
+    text-align: center;
+}
+.skills {
+    background-color: lavender;
+    text-align: center;
+}
+.projects {
+    text-align: center;
 }
 
