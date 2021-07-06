@@ -10,17 +10,7 @@
     text-align: right;
 }
 .grid-container {
-    grid-gap: 0px;
-}
-.about {
-    background-color: lightskyblue;
     text-align: center;
 }
-.skills {
-    background-color: lavender;
-    text-align: center;
-}
-.projects {
-    text-align: center;
-}
+
 
